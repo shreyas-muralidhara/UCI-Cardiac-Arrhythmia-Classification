@@ -5,5 +5,5 @@ Please review this README for todo tasks and take responsibility for them if you
 
 To Do Tasks:
 1) Adding comments to source_code.py - Name of Assignee: ""
-2) Implementing Models - SVM(Mangal), KNN(Nischal), RNN-LSTM(Shreyas)
+2) Implementing Models - SVM(Mangal), KNN(Nischal), RNN-LSTM(Shreyas), 1D-CNN (Pawandeep)
 3) Updating README according to tasks available.
