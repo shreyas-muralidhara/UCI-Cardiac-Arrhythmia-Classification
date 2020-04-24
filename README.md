@@ -1,4 +1,4 @@
-## Arrhythmia Prediction and Diagnosis using Machine Learning
+## Prediction and Classification of Cardiac Arrhythmia using Machine Learning
 ### Final project for CSC 522 - Automated Learning and Data Anlayis for Spring 2020 Term
 
 Team members:  
@@ -6,6 +6,9 @@ Team members:
 * Mangalnathan Vijayagopal - mvijaya2
 * Nischal Kashyap - nkashya
 * Pawandeep Mendiratta - psmendir
+
+
+### Source Code: [Prediction and Classification of Cardiac Arrhythmia](https://colab.research.google.com/drive/1yfABjLEh7HithNjcZJxaTbH_XXj9RIOd)
 
 #### ABSTARCT:
 To detect and predict the type of arrhythmia based on Electro-cardiogram (ECG) tool using machine learning models andalgorithms. We will be training a model using a given datasetand then use test data to classify instances with unknownclass labels.
